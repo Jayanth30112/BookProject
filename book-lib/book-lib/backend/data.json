@@ -1,0 +1,51 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "publishedDate": "1960-07-11",
+        "isAvailable": true
+    },
+    {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "genre": "History",
+        "publishedDate": "2011-01-01",
+        "isAvailable": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "publishedDate": "1925-04-10",
+        "isAvailable": false
+    },
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "genre": "Non-fiction",
+        "publishedDate": "2018-02-20",
+        "isAvailable": true
+    },
+    {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "genre": "History",
+        "publishedDate": "1947-06-25",
+        "isAvailable": false
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Non-fiction",
+        "publishedDate": "2018-10-16",
+        "isAvailable": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Fiction",
+        "publishedDate": "1949-06-08",
+        "isAvailable": true
+    }
+]
